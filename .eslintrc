@@ -1,0 +1,4 @@
+//配置代码规范
+{
+  "extends": "eslint-config-umi"
+}

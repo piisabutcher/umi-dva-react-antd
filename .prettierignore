@@ -1,0 +1,8 @@
+# 忽略文件或目录
+**/*.md
+**/*.svg
+**/*.ejs
+**/*.html
+package.json
+.umi
+.umi-production
